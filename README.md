@@ -2,6 +2,8 @@
 
 A Python-based API testing framework built with Pytest and Requests, following DRY and SOLID principles.
 
+![API Testing Demo](calendar_pytest/multimedia/api%20gif.gif)
+
 ## Setup Instructions
 
 ### 0. Create Virtual Environment (Recommended)
